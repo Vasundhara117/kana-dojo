@@ -1077,7 +1077,7 @@
     "character": "Sora",
     "id": 108,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "負ける気がしない",
@@ -1107,7 +1107,7 @@
     "character": "Guild Handler lines",
     "id": 111,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -1176,7 +1176,7 @@
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 118,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
