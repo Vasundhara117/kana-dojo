@@ -46,5 +46,23 @@
     "termB": "cunning (English)",
     "explanation": "カンニング means cheating on tests. (Set 5)",
     "example": "試験でカンニングしてはいけません。"
+  },
+  {
+    "termA": "マンション (manshon)",
+    "termB": "mansion (English)",
+    "explanation": "マンション means apartment building in Japanese. (Set 2)",
+    "example": "駅前のマンションに住んでいます。"
+  },
+  {
+    "termA": "ドンマイ (donmai)",
+    "termB": "don't mind (English)",
+    "explanation": "Used to comfort someone: 'never mind'. (Set 3)",
+    "example": "ミスしてもドンマイ！"
+  },
+  {
+    "termA": "ホッチキス (hocchikisu)",
+    "termB": "Hotchkiss (name)",
+    "explanation": "ホッチキス means stapler. (Set 3)",
+    "example": "資料をホッチキスで留めてください。"
   }
 ]
